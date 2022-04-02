@@ -26,18 +26,18 @@ Visit [my blog](https://huynhkhaphi.blogspot.com) for more information.
 
 ## Frameworks
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrapLogo" width="42" height="38"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwindLogo" width="42" height="38"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwindLogo" width="42" height="38"/>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrapLogo" width="42" height="38"/>]()
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwindLogo" width="42" height="38"/>]()
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwindLogo" width="42" height="38"/>]()
 
 ## Tools
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscodeLogo" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intellijLogo" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/1041px-Adobe_Photoshop_CS6_icon.svg.png" alt="ptsLogo" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/768px-Adobe_Illustrator_CC_icon.svg.png?20210729021608" alt="adaiLogo" width="40" height="40"/>
-<img src="https://i.pinimg.com/originals/ea/5b/58/ea5b5879e70251a8213ee454444b3e3c.png" alt="flLogo" width="40" height="40"/>
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="gcolabLogo" width="40" height="40"/>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscodeLogo" width="40" height="40"/>]()
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intellijLogo" width="40" height="40"/>]()
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/1041px-Adobe_Photoshop_CS6_icon.svg.png" alt="ptsLogo" width="40" height="40"/>]()
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/768px-Adobe_Illustrator_CC_icon.svg.png?20210729021608" alt="adaiLogo" width="40" height="40"/>]()
+[<img src="https://i.pinimg.com/originals/ea/5b/58/ea5b5879e70251a8213ee454444b3e3c.png" alt="flLogo" width="40" height="40"/>]()
+[<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="gcolabLogo" width="40" height="40"/>]()
 
 💌 Contact for work: huynhkhaphi.ltp20@gmail.com
 
