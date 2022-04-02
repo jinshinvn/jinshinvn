@@ -28,7 +28,6 @@ Visit [my blog](https://huynhkhaphi.blogspot.com) for more information.
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrapLogo" width="42" height="38"/>]()
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwindLogo" width="42" height="38"/>]()
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwindLogo" width="42" height="38"/>]()
 
 ## Tools
 
