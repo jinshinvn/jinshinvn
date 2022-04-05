@@ -38,6 +38,12 @@ Visit [my blog](https://huynhkhaphi.blogspot.com) for more information.
 [<img src="https://i.pinimg.com/originals/ea/5b/58/ea5b5879e70251a8213ee454444b3e3c.png" alt="flLogo" width="40" height="40"/>]()
 [<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="gcolabLogo" width="40" height="40"/>]()
 
-💌 Contact for work: huynhkhaphi.ltp20@gmail.com
 
-💌 Chat with me on Telegram: [@phitelegram](https://t.me/phitelegram)
+<details>
+  <summary>𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞</summary>
+  💌 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐟𝐨𝐫 𝐰𝐨𝐫𝐤: huynhkhaphi.ltp20@gmail.com
+
+  💌 𝐂𝐡𝐚𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: [@phitelegram](https://t.me/phitelegram)
+</details>
+
+
