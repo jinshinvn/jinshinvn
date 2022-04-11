@@ -12,7 +12,7 @@ I am an undergraduate Software Development student at SGU, HCMC.
   - ReactJS
   - Kotlin
   - Backend web development with Python 3
-- I love retrowave, sovietwave, vinahouse, playing Clash of clans, mixing tracks with Fl Studio.
+- I love retrowave, sovietwave, vinahouse, mixing tracks with Fl Studio.
 Visit [my blog](https://huynhkhaphi.blogspot.com) for more information.
  
 ### Programming languages
