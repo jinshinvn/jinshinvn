@@ -38,6 +38,9 @@ Visit [my blog](https://huynhkhaphi.blogspot.com) for more information.
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/768px-Adobe_Illustrator_CC_icon.svg.png?20210729021608" alt="adaiLogo" width="40" height="40"/>]()
 [<img src="https://i.pinimg.com/originals/ea/5b/58/ea5b5879e70251a8213ee454444b3e3c.png" alt="flLogo" width="40" height="40"/>]()
 [<img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="gcolabLogo" width="40" height="40"/>]()
+[<img src="https://i.ibb.co/MZ6Gwyt/figmaEx.png" alt="figmaLogo" width="40" height="40"/>]()
+
+
 
 
 <details>
