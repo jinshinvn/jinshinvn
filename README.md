@@ -1,7 +1,7 @@
 ## Hello world!
 
 
-<img align="right" width=300px alt="Thuan & Phi" src="https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/273309090_1546129879105427_4690650588965196894_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=39PLfjfSVXAAX82DzH6&_nc_ht=scontent.fsgn5-9.fna&oh=00_AT-rSE9IgaOCue_mgNQt4yXqoU-fESm6GFraOCmTw1-2tA&oe=624C8EF5" />
+<img align="right" width=300px alt="Thuan & Phi" src="https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/273309090_1546129879105427_4690650588965196894_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=kZgNNbsz5dQAX9q5AG3&_nc_ht=scontent.fsgn5-9.fna&oh=00_AT8CawyC5Bc-L8_iIo862JojTKPxppQ5of7PyI7yESuM8A&oe=626449F5" />
 
 I am an undergraduate Software Development student at SGU, HCMC.
 
