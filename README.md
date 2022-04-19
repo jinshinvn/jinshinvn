@@ -6,13 +6,6 @@
 I am an undergraduate Software Development student, HCMC.
 
 - I am interested in Web, Cross-platform development and pentesting.
-- Recently, i've been very busy with Java & Python projects at campus.
-- I am currently learning:
-  - Java Swing, Java Spring
-  - ReactJS
-  - Kotlin
-  - Backend web development with Python 3
-  - Russian
 - I love retrowave, sovietwave, vinahouse, mixing tracks with Fl Studio.
 Visit [my blog](https://huynhkhaphi.blogspot.com) for more information.
  
