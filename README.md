@@ -1,7 +1,7 @@
 ## Hello world!
 
 
-<img align="right" width=300px alt="Guess who?" src="https://pixeldoomers.club/static/media/logo.c6c37d0d.png" />
+<img align="right" width=200px height=200px alt="Guess who?" src="https://pixeldoomers.club/static/media/logo.c6c37d0d.png" />
 
 I am an undergraduate Software Development student, HCMC.
 
