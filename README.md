@@ -1,7 +1,7 @@
 ## Hello world!
 
 
-<img align="right" width=300px alt="Thuan & Phi" src="https://i.ibb.co/gmQ99mx/tony-litviak-hm-WNb26t52-U-unsplash.jpg" />
+<img align="right" width=300px alt="Guess who?" src="https://pixeldoomers.club/static/media/logo.c6c37d0d.png" />
 
 I am an undergraduate Software Development student, HCMC.
 
