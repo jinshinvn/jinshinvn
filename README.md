@@ -11,6 +11,7 @@ Visit [my blog](https://huynhkhaphi.blogspot.com) for more information.
  
 ### Programming languages
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/)
 [<img src="https://i.ibb.co/J5xSyJM/cpp.png" alt="cppLogo" width="38" height="38"/>]()
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="pythonLogo" width="40" height="40"/>]()
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/HTML5_logo_resized.svg/1200px-HTML5_logo_resized.svg.png" alt="htmlLogo" width="30" height="40"/>]()
