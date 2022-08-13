@@ -1,10 +1,12 @@
-## Hello world!
+## hello world
 
-I am an undergraduate Software Development student, HCMC.
+fe dev from hcmc.
 
-- I am interested in web js framework, mobile cross-platform app dev.
-- I love retrowave, sovietwave, vinahouse, mixing tracks with Fl Studio.
-Visit [my blog](https://huynhkhaphi.blogspot.com) for more information.
+- try to become fulstack dev.
+- lang: vi, en, ru, es
+- and special love for T
+
+[blog](https://huynhkhaphi.blogspot.com).
  
 ![](https://raw.githubusercontent.com/jinshinvn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/jinshinvn/github-stats/master/generated/overview.svg#gh-light-mode-only)
