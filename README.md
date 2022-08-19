@@ -4,7 +4,7 @@ fe dev from hcmc.
 
 - try to become fulstack dev.
 - lang: vi, en, ru, es
-- and special love for T
+- **and special love for T**
 
 [blog](https://huynhkhaphi.blogspot.com).
  
